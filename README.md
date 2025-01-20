@@ -2,8 +2,9 @@ Hello, My Name is Realdy
 ---
 **📌About** <br>
 Welcome to my portfolio page. My name is Mochammad Realdy Anrizsa Putra. I am a beginner game developer using Unity Engine. I am also a beginner at Blender.
+
 **📩Email** <br>
-hi@fajar.io
+mochamad.putra001@binus.ac.id
 
 <br>
 
@@ -30,11 +31,11 @@ A singleplayer, made for all ages, Top Down 2D game proudly made in Unity and ma
       <td valign="text-top">---</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Kreiglist/Dome-Diner">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://kreiglist.itch.io/dome-diner">Itch.io Page</a></td> <!--link1-->
       <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
