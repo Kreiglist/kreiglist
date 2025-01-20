@@ -10,8 +10,8 @@ hi@fajar.io
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Dome Diner </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>---</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -24,8 +24,10 @@ hi@fajar.io
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Dome Diner is a casual diner  and time management game set in a human colony in Mars.
+
+A singleplayer, made for all ages, Top Down 2D game proudly made in Unity and made for PC Windows with a 2D cartoonish artstyle.</td> <!--desc-->
+      <td valign="text-top">---</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
