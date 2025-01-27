@@ -25,9 +25,9 @@ mochamad.putra001@binus.ac.id
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Dome Diner is a casual diner  and time management game set in a human colony in Mars In Dome Diner, I was responsible at writing the codes and playtesting to find bugs and glitches.
-
-A singleplayer, made for all ages, Top Down 2D game proudly made in Unity and made for PC Windows with a 2D cartoonish artstyle.</td> <!--desc-->
+      <td valign="text-top">Dome Diner is a top-down casual diner and time management game set in a human colony in Mars developed in Unity. 
+        In Dome Diner, I was responsible at writing the codes and playtesting to find bugs and glitches.
+.</td> <!--desc-->
       <td valign="text-top">---</td> <!--desc-->
     </tr>
     <tr>
